@@ -25,7 +25,7 @@ def update():
 
 update()
 
-F=open("D:\\12th file handle\\class.dat","rb")
+F=open("class.dat","rb")
 val=pickle.load(F)
 print(val)
 F.close()
