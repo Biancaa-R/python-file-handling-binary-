@@ -19,7 +19,7 @@ pickle.dump(list,F)
 F.close()
 
 def remcount():
-    F=open("D:\\12th file handle\\class.dat","rb")
+    F=open("class.dat","rb")
     val=pickle.load(F)
     count=0
     
