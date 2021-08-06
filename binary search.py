@@ -3,7 +3,7 @@
 import pickle
 
 def binary_search():
-    F=open("D:\\12th file handle\\studrec.dat",'rb')
+    F=open("studrec.dat",'rb')
     value=pickle.load(F)
     search=0
     rno=int(input("Enter the roll number of the student"))
