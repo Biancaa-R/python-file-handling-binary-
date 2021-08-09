@@ -21,6 +21,8 @@ And to find the student with max marks,print their record, find no. of people wh
 the binary file used in question1, update a binary file is class.dat
 the binary file used in other programes are studrec.dat
 
+In question 2.py there also a situvation is solved, Its a program to print the words with length less than 4, their count in a TEXT file.
+
 (THIS CODE IS TARGETTED FOR ABSOLUTE BEGINERS)
 # Thank you for reading
 
