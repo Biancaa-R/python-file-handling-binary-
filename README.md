@@ -6,7 +6,9 @@ Here I have used File handling in Binary files
 Its the elementary basics of file handling:
 
 SEARCHING : In( binarysearch.py) we can search for a particular record in a binary file.
+
 DELETING: In (deleting record in a binary file.py) one can select a particular record and delete it.
+
 UPDATE: In (Update a binary file.py ) one can update a particular record
 
 all the records are stored in nested list format.
@@ -21,7 +23,6 @@ And to find the student with max marks,print their record, find no. of people wh
 the binary file used in question1, update a binary file is class.dat
 the binary file used in other programes are studrec.dat
 
-In question 2.py there also a situvation is solved, Its a program to print the words with length less than 4, their count in a TEXT file.
 
 (THIS CODE IS TARGETTED FOR ABSOLUTE BEGINERS)
 # Thank you for reading
