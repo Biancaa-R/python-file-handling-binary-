@@ -1,8 +1,7 @@
 # python-file_ handling_binary
 
-#Hello ! thankyou for showing up!
 
-Here I have used File handling in Binary files
+ File handling in Binary files
 Its the elementary basics of file handling:
 
 SEARCHING : In( binarysearch.py) we can search for a particular record in a binary file.
@@ -14,7 +13,7 @@ UPDATE: In (Update a binary file.py ) one can update a particular record
 all the records are stored in nested list format.
 In( Filehandle binary read.py) we can read read the contents of the binary file in non list format.
 
-in Question 1 I have solved a situvation:
+in Question 1  situvation:
 where we have to print the records of children who got less than 40%
 eligible for remedialclass, count no. of such children,
 
